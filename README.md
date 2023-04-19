@@ -1,24 +1,38 @@
+<h1 align="center"> Meus Links </h1>
 
-# Página de Links
+<p align="center">
+Projeto pessoal que fornece uma breve descrição sobre mim e navgação para minha principais redes. <br/>
+</p>
 
-### Projeto pessoal onde construí minha própria árvore de links acompanhada de uma breve descrição sobre mim.
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-deploy">Deploy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-english-version">English Version</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-## Sobre o projeto
+<p align="center">
+  <img alt="Preview" src="src/gifs/desktop.gif" width="100%">
+</p>
 
-Um projeto pessoal simples, criado para exercitar a lógica e raciocínio matemático, treinar Javascript e testar conhecimentos do DOM, além de trabalhar um pouco na criação de um design.
+## 🚀 Tecnologias
 
-## Tecnologias Usadas
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-Para completar o desafio usei:
- - HTML
- - CSS
- - Javascript
- - Tags Semânticas
- 
-## O Projeto Rodando
+- HTML e CSS
+- JavaScript
+- Git e Github
+- Figma
 
-#### Versão Desktop
-![](src/gifs/desktop.gif)
+## 💻 Deploy
 
-#### Versão Mobile
-![](src/gifs/mobile.gif)
+> [Clique aqui para navegar para o projeto!](https://ssschneider.github.io/sarah-schneider-links/)
+
+## 🌎 English Version
+
+My Links is a project with that shows a brief description about me along my main socials, like LinkedIn. To do that, I've used:
+- HTML, CSS, JS, Git, Github and Figma
+
+> You can check out the deploy by [clicking here](https://ssschneider.github.io/sarah-schneider-links/)
+
+---
+### Desenvolvido por Sarah Schneider 🖖
